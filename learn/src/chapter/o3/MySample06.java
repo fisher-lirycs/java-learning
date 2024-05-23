@@ -1,7 +1,7 @@
 package chapter.o3;
 
 /*
- 5、抽象类
+ 6、抽象类
 
 */
 
