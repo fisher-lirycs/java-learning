@@ -19,7 +19,7 @@ import javax.swing.Timer;
  2、lambda表达式
 */
 
-public class MySample02 {
+public class Lambda {
 	public static void main(String[] args) {
 //		2-1、为什么引入lambda表达式
 //		lambda 表达式是一个可传递的代码块，可以在以后执行一次或多次。

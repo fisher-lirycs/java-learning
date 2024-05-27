@@ -1,4 +1,4 @@
-package chapter.o4.mysample01.interfaces;
+package chapter.o4.interfaces;
 
 public class Employee implements Comparable<Employee> {
 	private String name;

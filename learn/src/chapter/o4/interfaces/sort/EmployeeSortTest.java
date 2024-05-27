@@ -1,8 +1,8 @@
-package chapter.o4.mysample01.interfaces.sort.copy;
+package chapter.o4.interfaces.sort;
 
 import java.util.Arrays;
 
-import chapter.o4.mysample01.interfaces.Employee;
+import chapter.o4.interfaces.Employee;
 
 public class EmployeeSortTest {
 

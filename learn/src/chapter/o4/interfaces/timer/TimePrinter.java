@@ -1,4 +1,4 @@
-package chapter.o4.mysample01.interfaces.timer;
+package chapter.o4.interfaces.timer;
 
 import java.awt.Toolkit;
 import java.awt.event.ActionEvent;

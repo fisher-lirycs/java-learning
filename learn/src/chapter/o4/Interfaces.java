@@ -9,13 +9,13 @@ import java.util.Comparator;
 
 import javax.swing.Timer;
 
-import chapter.o4.mysample01.interfaces.Employee;
+import chapter.o4.interfaces.Employee;
 
 /*
  1、接口
 */
 
-public class MySample01 {
+public class Interfaces {
 	public static void main(String[] args) {
 //		1-1、接口的概念
 //		在Java程序设计语言中，接口不是类，而是对希望符合这个接口的类的一组需求。

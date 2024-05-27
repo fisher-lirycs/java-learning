@@ -4,7 +4,7 @@ package chapter.o4;
  4、代理类
 */
 
-public class MySample04 {
+public class Proxy {
 	public static void main(String[] args) {
 //		利用代理可以在运行时创建实现了一组给定接口的新类。
 //		只有在编译时无法确定需要实现哪个接口时才有必要使用代理。

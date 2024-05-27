@@ -11,7 +11,7 @@ import javax.swing.Timer;
  3、内部类
 */
 
-public class MySample03 {
+public class InnerClass {
 	public static void main(String[] args) {
 //		内部类是定义在另一个类中的类。为什么需要使用内部类呢?主要有两个原因：
 //		●内部类可以对同一个包中的其他类隐藏。
